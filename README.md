@@ -1,7 +1,7 @@
 # Hello 👋 I'm Liam Atwood
 
 ## 💫 About Me:
-I am a first-year computer science student at Trent University. I am very excited to develop my code writing abilities and gain valuable experience by participating on projects.<br><br><br>
+I am a computer science student at Trent University. I'm currently combining my skills in Biology with Computer Science. I am very excited to develop my code writing abilities and gain valuable experience by participating on projects.<br><br><br>
 
 
 ### 🌐 Socials:
