@@ -1,18 +1,32 @@
-# Hello 👋 I'm Liam Atwood
+# Hello, I'm Liam Atwood
 
-## 💫 About Me:
-I am a computer science student at Trent University. I'm currently combining my skills in Biology with Computer Science. I am very excited to develop my code writing abilities and gain valuable experience by participating on projects.<br><br><br>
+## About Me
 
+CPA-track Computer Science and Biology graduate with a specialization in Data Analytics. I am interested in accounting, reporting, data analytics, automation, and practical tools that improve data quality and decision-making.
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/  www.linkedin.com/in/liam-atwood-b21708278) 
+My work includes reproducible analysis pipelines, dashboards, audit-style anomaly detection, full-stack applications, and stakeholder-facing reporting. I primarily work with Python, SQL, R, TypeScript, Docker, Git, and Streamlit.
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+## Current Focus
+
+- Accounting, finance, and reporting workflows
+- Data validation and process automation
+- Excel, SQL, Python, and dashboard development
+- CPA prerequisite coursework and accounting-tech career development
+
+## Featured Projects
+
+### Transaction Anomaly Detection Project
+C++ and OpenMP tool for flagging unusual transaction records using Benford’s Law, z-score outlier checks, and duplicate detection. Built to explore audit-style analytics, performance benchmarking, and reporting outputs.
+
+### Brown Trout Population Analysis
+Honours thesis project using Python, Snakemake, Docker, and Streamlit to build a reproducible analysis workflow and stakeholder-facing dashboard for fisheries data.
+
+### Full-Stack Childcare Booking Platform
+Next.js, TypeScript, Prisma, PostgreSQL, Stripe, and NextAuth application supporting booking, payments, receipts, parent profiles, and owner dashboard workflows.
+
+## Tech Stack
+
+**Data & Reporting:** Python, SQL, R, pandas, NumPy, Matplotlib, ggplot2, Streamlit  
+**Workflow & Tools:** Git, Docker, Snakemake, Linux, VS Code  
+**Web & Databases:** TypeScript, Next.js, React, Prisma, PostgreSQL  
+**Other:** C++, OpenMP, Java, HTML/CSS
